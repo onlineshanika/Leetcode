@@ -46,7 +46,20 @@
       <recent name="$PROJECT_DIR$/src/org/exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringToInteger">
+  <component name="RunManager" selected="Application.RemoveDuplicatesFromSortedArray">
+    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exercises.RemoveDuplicatesFromSortedArray" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.exercises.ReverseInteger" />
       <module name="Leetcode" />
@@ -75,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
         <item itemvalue="Application.StringToInteger" />
         <item itemvalue="Application.ReverseInteger" />
       </list>
@@ -129,6 +143,16 @@
           <url>file://$PROJECT_DIR$/src/org/exercises/StringToInteger.java</url>
           <line>11</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/exercises/RemoveDuplicatesFromSortedArray.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/exercises/RemoveDuplicatesFromSortedArray.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
