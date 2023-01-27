@@ -46,9 +46,9 @@
       <recent name="$PROJECT_DIR$/src/org/exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RunningSumOf1dArray">
-    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exercises.RemoveDuplicatesFromSortedArray" />
+  <component name="RunManager" selected="Application.IsomorphicStrings">
+    <configuration name="FindPivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exercises.FindPivotIndex" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +60,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exercises.ReverseInteger" />
+    <configuration name="IsomorphicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exercises.IsomorphicStrings" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exercises.RemoveDuplicatesFromSortedArray" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -101,10 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsomorphicStrings" />
+        <item itemvalue="Application.FindPivotIndex" />
         <item itemvalue="Application.RunningSumOf1dArray" />
         <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
         <item itemvalue="Application.StringToInteger" />
-        <item itemvalue="Application.ReverseInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +181,31 @@
           <url>file://$PROJECT_DIR$/src/org/exercises/RemoveDuplicatesFromSortedArray.java</url>
           <line>25</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/exercises/RunningSumOf1dArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/exercises/IsomorphicStrings.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/exercises/IsomorphicStrings.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/exercises/IsomorphicStrings.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/exercises/IsomorphicStrings.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
